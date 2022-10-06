@@ -1,1 +1,4 @@
 # TicTacToe_Pascal
+This is the first "game" I made when I learned to program back in 2019, it's basically Tic-Tac-Toe (X/O) written in Pascal.
+If you decide to play against the computer then the game is practically unbeatable in hard mode (except for one scenario I forgot to fix), there is also easy mode in which the computer places its marker randomly, as well as a PvP mode.<br><br>
+The only thing impressive about the code is how long and overly complicated it is; the game board is seen as a 3x3 matrix and I basically went through every possible case you can come across in the game and hard-coded it using If/Else, this means the computer is smart enough to block you if it is about to lose or might even try to pull some tricks like using the "triangle strategy". The in-game text is in French and the code is written in Pascal so good luck trying to run it!
